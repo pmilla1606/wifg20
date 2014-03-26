@@ -67,7 +67,7 @@ var AppView = Backbone.View.extend({
 			    url: searchUrl+query+'&page_limit=6',
 			    dataType: "jsonp",
 			    success: function(data){
-			    	
+			    	$('#suggestwrap').html('');
 			      	_.each(data.movies, function(mov){
 			    		thisSearchCollection.add({'movie_title':mov.title, 'movie_year':mov.year});
 						$('#suggestwrap').append(thisTemplate({'movie_title':mov.title, 'movie_year':mov.year, 'rt_id':mov.id}));
@@ -92,10 +92,9 @@ var AppView = Backbone.View.extend({
 		    		'critics_score':data.ratings.critics_score,
 		    		'audience_score':data.ratings.audience_score
 		    	}));
-		    	$('#suggestwrap').html('');
 		    }
 		  });
-		
+		  $('#suggestwrap').html('');
 	}
 });
 
