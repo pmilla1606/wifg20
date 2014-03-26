@@ -1,0 +1,14 @@
+#suggestwrap{
+	margin:0;
+	padding:0;
+
+}
+
+#suggestwrap li{
+	padding:0.5em 1em;
+	
+}
+
+#suggestwrap li:hover{
+	background-color:pink;
+	}

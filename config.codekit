@@ -1,0 +1,3814 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "16844",
+"files": {
+	"\/bower_components\/backbone\/backbone.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/backbone\/backbone.js",
+		"outputAbbreviatedPath": "\/bower_components\/backbone\/min\/backbone-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/backbone\/CONTRIBUTING.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/backbone\/CONTRIBUTING.md",
+		"outputAbbreviatedPath": "\/bower_components\/backbone\/CONTRIBUTING.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/backbone\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/backbone\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/backbone\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/backbone\/index.js",
+		"outputAbbreviatedPath": "\/bower_components\/backbone\/min\/index-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/backbone\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/backbone\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/backbone\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/flatstrap\/dist\/css\/bootstrap-theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/css\/bootstrap-theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/flatstrap\/dist\/css\/bootstrap-theme.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/css\/bootstrap-theme.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/flatstrap\/dist\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/flatstrap\/dist\/css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/flatstrap\/dist\/js\/bootstrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/js\/bootstrap.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/js\/min\/bootstrap-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/dist\/js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/dist\/js\/min\/bootstrap.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/grunt\/bs-glyphicons-data-generator.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/bs-glyphicons-data-generator.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/min\/bs-glyphicons-data-generator-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/grunt\/bs-lessdoc-parser.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/bs-lessdoc-parser.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/min\/bs-lessdoc-parser-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/grunt\/bs-raw-files-generator.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/bs-raw-files-generator.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/min\/bs-raw-files-generator-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/grunt\/shrinkwrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/shrinkwrap.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/grunt\/min\/shrinkwrap-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/Gruntfile.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/Gruntfile.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/min\/Gruntfile-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/affix.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/affix.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/affix-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/alert.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/alert.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/alert-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/button.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/button.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/button-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/carousel.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/carousel-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/collapse.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/collapse.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/collapse-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/dropdown.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/dropdown-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/modal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/modal.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/modal-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/popover.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/popover.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/popover-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/scrollspy.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/scrollspy.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/scrollspy-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/tab.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/tab-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/tooltip.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/tooltip-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/js\/transition.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/transition.js",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/js\/min\/transition-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/flatstrap\/less\/alerts.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/alerts.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/alerts.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/badges.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/badges.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/badges.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/bootstrap.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/bootstrap.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/bootstrap.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/breadcrumbs.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/breadcrumbs.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/breadcrumbs.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/button-groups.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/button-groups.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/button-groups.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/buttons.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/buttons.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/buttons.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/carousel.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/carousel.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/carousel.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/close.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/close.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/close.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/code.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/code.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/code.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/component-animations.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/component-animations.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/component-animations.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/dropdowns.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/dropdowns.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/dropdowns.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/forms.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/forms.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/forms.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/glyphicons.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/glyphicons.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/glyphicons.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/grid.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/grid.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/grid.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/input-groups.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/input-groups.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/input-groups.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/jumbotron.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/jumbotron.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/jumbotron.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/labels.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/labels.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/labels.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/list-group.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/list-group.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/list-group.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/media.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/media.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/media.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/mixins.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/mixins.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/mixins.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/modals.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/modals.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/modals.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/navbar.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/navbar.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/navbar.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/navs.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/navs.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/navs.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/normalize.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/normalize.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/normalize.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/pager.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/pager.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/pager.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/pagination.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/pagination.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/pagination.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/panels.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/panels.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/panels.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/popovers.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/popovers.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/popovers.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/print.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/print.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/print.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/progress-bars.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/progress-bars.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/progress-bars.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/responsive-utilities.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/responsive-utilities.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/responsive-utilities.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/scaffolding.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/scaffolding.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/scaffolding.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/tables.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/tables.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/tables.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/theme.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/theme.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/theme.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/thumbnails.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/thumbnails.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/thumbnails.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/tooltip.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/tooltip.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/tooltip.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/type.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/type.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/type.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/utilities.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/utilities.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/utilities.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/variables.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/variables.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/variables.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/less\/wells.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/less\/wells.less",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/wells.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/bower_components\/flatstrap\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_alerts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_alerts.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_alerts.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_badges.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_badges.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_badges.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_breadcrumbs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_breadcrumbs.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_breadcrumbs.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_button-groups.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_button-groups.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_button-groups.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_buttons.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_buttons.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_carousel.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_carousel.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_carousel.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_close.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_close.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_close.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_code.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_code.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_code.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_component-animations.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_component-animations.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_component-animations.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_dropdowns.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_dropdowns.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_dropdowns.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_forms.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_forms.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_forms.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_glyphicons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_glyphicons.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_glyphicons.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_grid.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_grid.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_grid.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_input-groups.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_input-groups.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_input-groups.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_jumbotron.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_jumbotron.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_jumbotron.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_labels.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_labels.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_labels.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_list-group.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_list-group.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_list-group.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_media.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_media.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_media.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_mixins.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_mixins.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_mixins.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_modals.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_modals.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_modals.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_navbar.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_navbar.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_navbar.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_navs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_navs.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_navs.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_normalize.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_normalize.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_normalize.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_pager.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_pager.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_pager.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_pagination.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_pagination.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_pagination.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_panels.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_panels.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_panels.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_popovers.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_popovers.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_popovers.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_print.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_print.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_print.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_progress-bars.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_progress-bars.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_progress-bars.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_responsive-utilities.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_responsive-utilities.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_responsive-utilities.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_scaffolding.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_scaffolding.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_scaffolding.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_tables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_tables.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_tables.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_theme.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_theme.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_theme.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_thumbnails.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_thumbnails.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_thumbnails.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_tooltip.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_tooltip.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_tooltip.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_type.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_type.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_type.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_utilities.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_utilities.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_utilities.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_variables.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_variables.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/_wells.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/_wells.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/_wells.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/scss\/bootstrap.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/scss\/bootstrap.scss",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/css\/bootstrap.css",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/flatstrap\/test-infra\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/flatstrap\/test-infra\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/flatstrap\/test-infra\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery\/dist\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/dist\/min\/jquery-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/dist\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/dist\/min\/jquery.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/ajax-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/jsonp.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/jsonp.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/jsonp-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/load.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/load.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/load-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/parseJSON.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/parseJSON.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/parseJSON-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/parseXML.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/parseXML.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/parseXML-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/script.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/script-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/var\/nonce.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/nonce.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/min\/nonce-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/var\/rquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/rquery.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/var\/min\/rquery-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/ajax\/xhr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/xhr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/ajax\/min\/xhr-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/attributes.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/attributes-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/attributes\/attr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/attr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/attr-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/attributes\/classes.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/classes.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/classes-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/attributes\/prop.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/prop.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/prop-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/attributes\/support.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/support.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/support-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/attributes\/val.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/val.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/attributes\/min\/val-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/callbacks.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/callbacks.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/callbacks-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/core.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/core-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/core\/access.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/access.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/access-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/core\/init.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/init.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/init-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/core\/parseHTML.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/parseHTML.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/parseHTML-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/core\/ready.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/ready.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/min\/ready-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/core\/var\/min\/rsingleTag-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/css-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/addGetHookIf.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/addGetHookIf.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/addGetHookIf-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/curCSS.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/curCSS.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/curCSS-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/defaultDisplay.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/defaultDisplay.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/defaultDisplay-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/hiddenVisibleSelectors-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/support.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/support.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/support-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/swap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/swap.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/min\/swap-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/var\/cssExpand.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/cssExpand.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/cssExpand-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/var\/getStyles.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/getStyles.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/getStyles-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/var\/isHidden.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/isHidden.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/isHidden-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/var\/rmargin.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/rmargin-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/css\/var\/min\/rnumnonpx-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/data-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/data\/accepts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/accepts.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/min\/accepts-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/data\/Data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/Data.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/min\/Data-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/data\/var\/data_priv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/data_priv.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/min\/data_priv-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/data\/var\/data_user.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/data_user.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/data\/var\/min\/data_user-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/deferred.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/deferred.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/deferred-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/deprecated.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/deprecated.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/deprecated-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/dimensions.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/dimensions.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/dimensions-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/effects.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/effects-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/effects\/animatedSelector.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/animatedSelector.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/min\/animatedSelector-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/effects\/Tween.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/Tween.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/effects\/min\/Tween-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/event.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/event.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/event-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/event\/alias.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/alias.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/min\/alias-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/event\/support.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/support.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/event\/min\/support-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/exports\/amd.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/amd.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/min\/amd-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/exports\/global.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/global.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/exports\/min\/global-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/intro.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/intro.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/intro-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/jquery.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/jquery-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/manipulation.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/manipulation-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/min\/_evalUrl-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/manipulation\/support.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/support.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/min\/support-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/manipulation\/var\/min\/rcheckableType-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/offset.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/offset.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/offset-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/outro.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/outro.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/outro-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/queue.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/queue-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/queue\/delay.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue\/delay.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/queue\/min\/delay-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/selector-native.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/selector-native.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-native-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/selector-sizzle.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/selector-sizzle.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-sizzle-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/selector.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/selector.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/selector-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/serialize.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/serialize.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/serialize-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/sizzle.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/sizzle\/dist\/min\/sizzle.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/traversing.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/traversing-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/traversing\/findFilter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/findFilter.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/min\/findFilter-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/traversing\/var\/min\/rneedsContext-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/arr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/arr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/arr-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/class2type.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/class2type.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/class2type-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/concat.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/concat.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/concat-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/hasOwn.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/hasOwn.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/hasOwn-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/indexOf.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/indexOf.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/indexOf-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/pnum.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/pnum.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/pnum-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/push.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/push.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/push-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/rnotwhite.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/rnotwhite.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/rnotwhite-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/slice.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/slice.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/slice-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/strundefined.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/strundefined.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/strundefined-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/support.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/support.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/support-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/toString.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/toString.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/toString-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/wrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/wrap.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/wrap-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/CHANGELOG.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/CHANGELOG.md",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/CHANGELOG.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/CONTRIBUTING.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/CONTRIBUTING.md",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/CONTRIBUTING.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/dist\/bloodhound.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/bloodhound.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/min\/bloodhound-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/dist\/bloodhound.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/bloodhound.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/min\/bloodhound.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/dist\/typeahead.bundle.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/typeahead.bundle.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/min\/typeahead.bundle-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/dist\/typeahead.bundle.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/typeahead.bundle.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/min\/typeahead.bundle.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/dist\/typeahead.jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/typeahead.jquery.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/min\/typeahead.jquery-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/dist\/typeahead.jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/typeahead.jquery.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/dist\/min\/typeahead.jquery.min-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/doc\/bloodhound.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/doc\/bloodhound.md",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/doc\/bloodhound.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/doc\/jquery_typeahead.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/doc\/jquery_typeahead.md",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/doc\/jquery_typeahead.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/doc\/migration\/0.10.0.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/doc\/migration\/0.10.0.md",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/doc\/migration\/0.10.0.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/Gruntfile.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/Gruntfile.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/min\/Gruntfile-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/karma.conf.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/karma.conf.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/min\/karma.conf-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/bloodhound.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/bloodhound.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/bloodhound-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/lru_cache.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/lru_cache.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/lru_cache-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/options_parser.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/options_parser.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/options_parser-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/persistent_storage.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/persistent_storage.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/persistent_storage-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/search_index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/search_index.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/search_index-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/tokenizers.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/tokenizers.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/tokenizers-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/transport.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/transport.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/transport-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/bloodhound\/version.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/version.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/bloodhound\/min\/version-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/common\/utils.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/common\/utils.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/common\/min\/utils-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/css.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/css.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/css-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/dataset.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/dataset.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/dataset-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/dropdown.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/dropdown-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/event_bus.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/event_bus.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/event_bus-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/event_emitter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/event_emitter.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/event_emitter-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/highlight.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/highlight.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/highlight-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/html.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/html.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/html-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/input.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/input.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/input-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/plugin.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/plugin.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/plugin-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/src\/typeahead\/typeahead.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/typeahead.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/src\/typeahead\/min\/typeahead-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/bloodhound_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/bloodhound_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/bloodhound_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/dataset_view_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/dataset_view_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/dataset_view_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/dropdown_view_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/dropdown_view_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/dropdown_view_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/event_emitter_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/event_emitter_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/event_emitter_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/fixtures\/ajax_responses.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/fixtures\/ajax_responses.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/fixtures\/min\/ajax_responses-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/fixtures\/data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/fixtures\/data.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/fixtures\/min\/data-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/fixtures\/html.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/fixtures\/html.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/fixtures\/min\/html-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/helpers\/typeahead_mocks.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/helpers\/typeahead_mocks.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/helpers\/min\/typeahead_mocks-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/highlight_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/highlight_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/highlight_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/input_view_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/input_view_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/input_view_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/lru_cache_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/lru_cache_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/lru_cache_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/persistent_storage_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/persistent_storage_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/persistent_storage_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/playground.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/playground.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/typeahead.js\/test\/search_index_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/search_index_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/search_index_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/tokenizers_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/tokenizers_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/tokenizers_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/transport_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/transport_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/transport_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/typeahead.js\/test\/typeahead_view_spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/typeahead_view_spec.js",
+		"outputAbbreviatedPath": "\/bower_components\/typeahead.js\/test\/min\/typeahead_view_spec-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/underscore\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/underscore\/README.md",
+		"outputAbbreviatedPath": "\/bower_components\/underscore\/README.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/underscore\/underscore.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/underscore\/underscore.js",
+		"outputAbbreviatedPath": "\/bower_components\/underscore\/min\/underscore-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/min\/wifg-ck.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/min\/wifg-ck.js",
+		"outputAbbreviatedPath": "\/min\/min\/wifg-ck-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/wifg.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wifg.js",
+		"outputAbbreviatedPath": "\/min\/wifg-ck.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Peter Margaritoff",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "wifg20",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_blue"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no-unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptOutputSuffix": "-ck",
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"gcl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onevar": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"smarttabs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"trailing": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

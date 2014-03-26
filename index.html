@@ -1,0 +1,44 @@
+<html>
+<head>
+	<script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="bower_components/underscore/underscore.js"></script>
+	<script type="text/javascript" src="bower_components/backbone/backbone.js"></script>
+
+    <script type="text/javascript" src="bower_components/typeahead.js/dist/typeahead.jquery.js"></script>
+    
+	
+	
+	<link rel="stylesheet" type="text/css" href="bower_components/flatstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+
+
+<script type="text/template" id="suggestions">
+<li data-id="<%= rt_id %>"><%= movie_title %> - <%= movie_year %></li>
+</script>
+
+<script type="text/template" id="fullmovie">
+<span id="movietitle"><%= movie_title %></span>
+<img src="<%= movie_poster %>"></span>
+<span id="critics"><%= critics_score %></span>
+<span id="audience"><%= audience_score %></span>
+</script>
+
+</head>
+
+<body>
+    <h1>Was it fucking good</h1>
+
+    <section id="appview">
+        <input type="search" class="form-control" id="searchbox" placeholder="was it??">
+        <ul id="suggestwrap"></ul>
+        <a href="#" class="searchbtn">Search</a>
+    </section>
+    <section id="movieview"></section>
+</body>
+<script type="text/javascript" src="wifg.js"></script>
+</html>
+
+
+
+
