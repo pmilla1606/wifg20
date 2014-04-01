@@ -1,14 +1,55 @@
+/* apply a natural box layout model to all elements */
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+ }
 #suggestwrap{
 	margin:0;
 	padding:0;
-
+	border:1px solid #ccc;
+	-webkit-box-shadow: 0 0 5px 1px rgba(0,0,0,0.3);
+	box-shadow: 0 0 5px 1px rgba(0,0,0,0.3);
+	top:2.5em;
+	width:100%;
+	position: absolute;
+	list-style: none;
+	background-color:#fff;
 }
 
 #suggestwrap li{
 	padding:0.5em 1em;
+	cursor: pointer;
 	
 }
 
 #suggestwrap li:hover{
+<<<<<<< HEAD
+	background-color:rgb(192, 227, 255);
+	}
+
+#appview{position: relative;}	
+
+#movieview{text-align: center;}
+
+#movieview span{
+	width:100%;
+	display: block;
+}
+
+span#movietitle{
+	font-size:4em;
+}
+=======
 	background-color:pink;
 	}
+	
+	
+#movieview span{
+  width:50%;
+  display:block;
+  float:left;}
+#movieview img{
+  max-height:100%;
+  max-width:50%;
+  float:left;
+}
+>>>>>>> FETCH_HEAD

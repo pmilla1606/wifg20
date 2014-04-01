@@ -18,8 +18,13 @@
 </script>
 
 <script type="text/template" id="fullmovie">
+<img src="<%= movie_poster %>" />
 <span id="movietitle"><%= movie_title %></span>
-<img src="<%= movie_poster %>"></span>
+<<<<<<< HEAD
+<img class="img-thumbnail" src="<%= movie_poster %>"></span>
+=======
+
+>>>>>>> FETCH_HEAD
 <span id="critics"><%= critics_score %></span>
 <span id="audience"><%= audience_score %></span>
 </script>
@@ -33,7 +38,7 @@
         <section id="appview">
             <input type="search" class="form-control" id="searchbox" placeholder="was it??">
             <ul id="suggestwrap"></ul>
-            <a href="#" class="searchbtn">Search</a>
+           
         </section>
         <section id="movieview"></section>
     </div>
